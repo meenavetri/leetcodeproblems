@@ -6,3 +6,4 @@ var hammingWeight = function(n) {
     }
     return count
 };
+
